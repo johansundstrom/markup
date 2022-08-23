@@ -12,11 +12,36 @@
 
 ---
 
-Exempel där uppmärkning finns
+* Content - Text (information)
+* Presentationslager
+
+---
+
+Exempel där uppmärkning av data finns
 
 * Portable Document File
-* Officedokument
+* Microsoft Officedokument
 * Webbsidor
+
+---
+
+Exempel på uppmärkning
+
+* Positioneringar
+* Färger
+* Storlekar
+* Teckensnitt
+* etc
+
+---
+
+Implikation för en designer
+
+* Utforma information OCH presentation
+
+---
+
+Presentationslagret kan ses som en META beskrivning
 
 ---
 
