@@ -1,0 +1,12 @@
+.make-it-pop {
+    filter: drop-shadow(0 0 10px purple);
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+.myColor {
+    color: yellow;
+}
