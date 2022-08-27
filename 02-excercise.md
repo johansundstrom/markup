@@ -1,5 +1,7 @@
 # Övning
 
+<img class="myColor" width="800" data-src="assets/images/exercise.webp">
+
 ---
 
 ## Övning
@@ -50,7 +52,7 @@
 
 ---
 
-## Analys
+## Analysfrågor
 
 * Process att skapa utformning
 * Systematik

@@ -28,7 +28,7 @@
 
 * Producera *information*
 * Bry sig om *läsbarhet*
-* Erbjuda *content*
+* Erbjuda *content* som leder till kunskap
 
 ---
 
@@ -36,8 +36,18 @@
 
 * Producera *information*
 * Bry sig om *läsbarhet*
-* Erbjuda *content*
-* Skapa *universell* content
+* Erbjuda *content* som leder till kunskap
+* Skapa nära nog *medieoberoende* content
+
+---
+
+## Kommunikatörens utmaning
+
+* Producera *information*
+* Bry sig om *läsbarhet*
+* Erbjuda *content* som leder till kunskap
+* Skapa nära nog *medieoberoende* content
+* Strävan att bli *system effektiv*
 
 ---
 
@@ -49,6 +59,4 @@
 
 ---
 
-## PDF studie
-
-* 
+(c) Johan Sundström

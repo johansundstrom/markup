@@ -8,6 +8,9 @@
 
 ## Agenda
 
-1. Övning
-2. Introduktion och Begrepp
-3. Universell Informations-utformning
+1. Agenda
+2. Övning
+3. Introduktion och Begrepp
+4. Universell Informationsutformning
+5. Postscript
+6. Standardiserat generellt uppmärkningsspråk

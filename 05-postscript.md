@@ -55,6 +55,8 @@ endobj
 
 ## Måttenheter
 
+<img class="myColor" data-src="assets/images/ruler.png">
+
 ### Point
 
 1 Point (pt) = 1/72 inch (~0.3mm)

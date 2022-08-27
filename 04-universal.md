@@ -2,19 +2,13 @@
 
 ---
 
-## Kommunikatörens mål
-
-* Strävan att bli system effektiv
-* Skilj på *information* och *presentation*
-
----
-
 ## Medel för att uppnå mål
 
 Tänk...
 
 * Lager av arbetsinsatser
 * Återanvändbarhet
+* System
 
 ---
 
