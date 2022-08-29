@@ -28,9 +28,10 @@ XML kan vara uppmärkning av
 <pre><code data-trim><script type="text/template">
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE exempel [
-    <!ENTITY copy "&#169;">
-    <!ENTITY company "&#197;&#196;&#214;-Company">
-    <!ENTITY copyright-notice "&copy;2022,&company;">
+  <!ENTITY nbsp "&#xA0;">
+  <!ENTITY copy "&#169;">
+  <!ENTITY company "&#197;&#196;&#214;-Company">
+  <!ENTITY copyright-notice "&copy;&nbsp;2022&nbsp;&company;">
 ]>
 <exempel>
   &copyright-notice;
