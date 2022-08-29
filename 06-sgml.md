@@ -1,25 +1,32 @@
-# Standardiserat generellt uppmärkningsspråk
+# Allmänt Standardiserat Uppmärkningsspråk
 
 ---
 
 ## Allmänt
 
 * Standard Generalized Markup Language (SGML)
+* Märker upp data
 * ISO-standard 1986
-* Mark-up data
 
 ---
 
+## Unikt för SGML
+
+* Tag´s används för uppmärkning
+* Egna namn på uppmärkningar
+
 ## SGML
 
-```sgml
-<!DTD ...>
-<justify_center>
-  En 
-  <fat>fet</fat>
-  katt gick förbi
-</justify_center>
-```
+<pre><code class="language-html" data-trim><script type="text/template">
+<!doctype ...>
+<justera_center>
+  <stycke>
+    En 
+    <fet>fet</fet>
+    katt gick förbi
+  </stycke>
+</justera_center>
+</script></code></pre>
 
 ---
 

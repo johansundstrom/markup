@@ -8,9 +8,11 @@
 
 ## Agenda
 
-1. Agenda
-2. Övning
-3. Introduktion och Begrepp
-4. Universell Informationsutformning
-5. Postscript
-6. Standardiserat generellt uppmärkningsspråk
+* Agenda
+* Övning
+* Introduktion och Begrepp
+* Universell Informationsutformning
+* Postscript
+* Allmänt Standardiserat Uppmärkningsspråk
+* Uppmärkningsspråk för Hypertext
+* Utdraget Uppmärkningsspråk

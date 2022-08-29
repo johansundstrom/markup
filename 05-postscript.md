@@ -11,7 +11,7 @@
 
 <img class="myColor" data-src="assets/images/postscript-logo.png">
 
-```
+<pre><code class="language-html" data-trim><script type="text/template">
 %!PS
 /Courier findfont 
   20 scalefont 
@@ -19,7 +19,7 @@ setfont
   72 500 moveto 
   (Hello world!) show 
 showpage 
-```
+</script></code></pre>
 
 ---
 

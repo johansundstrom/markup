@@ -4,6 +4,8 @@
 
 ## Medel för att uppnå mål
 
+<img class="myColor" width="200" data-src="assets/images/layers.png">
+
 Tänk...
 
 * Lager av arbetsinsatser
@@ -37,7 +39,7 @@ Tänk...
 
 ---
 
-## Implikation för en designer
+## Implikation för designern
 
 * Utforma information OCH sedan presentationslager
 

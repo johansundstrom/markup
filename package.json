@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "highlight.js": "^11.6.0",
     "reveal.js": "^4.2.1"
   }
 }
