@@ -6,6 +6,7 @@
 
 * Skapades 1982 som ett *sidbeskrivningsspråk*
 * Språk samt *Interpreter* (översättare)
+* Uppmärkning och presentation
 
 ---
 

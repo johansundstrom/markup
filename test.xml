@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE notis [
+  <!ENTITY nbsp "&#xA0;">
+  <!ENTITY copy "&#169;">
+  <!ENTITY company "&#197;&#196;&#214;-Company">
+  <!ENTITY right-notice "&copy;&nbsp;2022&nbsp;&company;">
+]>
+<notis>
+  &right-notice;
+</notis>

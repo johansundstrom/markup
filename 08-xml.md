@@ -27,15 +27,15 @@ XML kan vara uppmärkning av
 
 <pre><code data-trim><script type="text/template">
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE exempel [
+<!DOCTYPE notis [
   <!ENTITY nbsp "&#xA0;">
   <!ENTITY copy "&#169;">
   <!ENTITY company "&#197;&#196;&#214;-Company">
   <!ENTITY right-notice "&copy;&nbsp;2022&nbsp;&company;">
 ]>
-<exempel>
+<notis>
   &right-notice;
-</exempel>
+</notis>
 </script></code></pre>
 
 ---

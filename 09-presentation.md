@@ -22,3 +22,7 @@ body {  background-color: red; }
 h1 { color: blue; }
 p { font-family: Arial, Helvetica, sans-serif; }
 </script></code></pre>
+
+---
+
+(c) Johan Sundström
