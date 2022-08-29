@@ -31,10 +31,10 @@ XML kan vara uppmärkning av
   <!ENTITY nbsp "&#xA0;">
   <!ENTITY copy "&#169;">
   <!ENTITY company "&#197;&#196;&#214;-Company">
-  <!ENTITY copyright-notice "&copy;&nbsp;2022&nbsp;&company;">
+  <!ENTITY right-notice "&copy;&nbsp;2022&nbsp;&company;">
 ]>
 <exempel>
-  &copyright-notice;
+  &right-notice;
 </exempel>
 </script></code></pre>
 
