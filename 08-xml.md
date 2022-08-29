@@ -30,7 +30,7 @@ XML kan vara uppmärkning av
 <!DOCTYPE exempel [
     <!ENTITY copy "&#169;">
     <!ENTITY company "&#197;&#196;&#214;-Company">
-    <!ENTITY copyright-notice "&copy; 2022, company;">
+    <!ENTITY &copyright-notice "&copy; 2022, &company;">
 ]>
 <exempel>
   &copyright-notice;
