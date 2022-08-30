@@ -2,7 +2,7 @@
 
 ---
 
-[<img class="myColor" data-src="[assets/images/print-icon.png](https://github.com/johansundstrom/markup/blob/main/assets/images/print-icon.png)">](?print-pdf)
+[<img class="myColor" data-src="https://github.com/johansundstrom/markup/blob/main/assets/images/print-icon.png">](?print-pdf)
 
 ---
 
