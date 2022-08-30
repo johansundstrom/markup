@@ -78,4 +78,10 @@ Tänk...
 
 ---
 
+## Frågor på detta
+
+* Information på punktskrift
+
+---
+
 (c) Johan Sundström
