@@ -16,20 +16,12 @@ Tänk...
 
 ## Uppmärkning
 
-* Text märks upp
-* Märkning anger storlek, färg, teckensnitt etc
+* Märk text
 * Här börjar/slutar stycke, här börjar/slutar rubrik, här slutar rad etc
 
 ---
 
-## Uppmärkningens element
-
-* Content - Text (information)
-* Presentationslager
-
----
-
-## Exempel på uppmärkning
+## Uppmärkning kan markera
 
 * Positioneringar
 * Färger
@@ -41,7 +33,9 @@ Tänk...
 
 ## Implikation för designern
 
-* Utforma information OCH sedan presentationslager
+* Utforma information OCH 
+* sedan presentationslager OCH
+* Vara systematisk
 
 ---
 
@@ -50,6 +44,7 @@ Tänk...
 * Portable Document File
 * Microsoft Officedokument
 * Webbsidor
+* Elektroniska dokument
 
 ---
 
@@ -62,5 +57,25 @@ Tänk...
 
 ---
 
-## 
+## Presentationsspråk
 
+* Stilmallar
+* Endast för webbläsare
+
+---
+
+## Måttenheter
+
+<img class="myColor" data-src="assets/images/ruler.png">
+
+### Point
+
+1 Point (pt) = 1/72 inch (~0.3mm)
+
+### Pica
+
+1 Pica (pc) = 12 points
+
+---
+
+(c) Johan Sundström

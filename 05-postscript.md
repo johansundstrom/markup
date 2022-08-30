@@ -1,11 +1,11 @@
-# Postscript - PDF
+# Sidbeskrivnings språk
 
 ---
 
 <img class="myColor" data-src="assets/images/postscript-logo.png">
 
 * Skapades 1982 som ett *sidbeskrivningsspråk*
-* Språk samt *Interpreter* (översättare)
+* Språk samt *Interpreter* (tolk)
 * Uppmärkning och presentation
 
 ---
@@ -51,20 +51,6 @@ endobj
 ...
 %EOF
 ```
-
----
-
-## Måttenheter
-
-<img class="myColor" data-src="assets/images/ruler.png">
-
-### Point
-
-1 Point (pt) = 1/72 inch (~0.3mm)
-
-### Pica
-
-1 Pica (pc) = 12 points
 
 ---
 

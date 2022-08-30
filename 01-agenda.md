@@ -12,7 +12,10 @@
 * Övning
 * Introduktion och Begrepp
 * Universell Informationsutformning
-* Postscript
+* Sidbeskrivningsspråk
 * Allmänt Standardiserat Uppmärkningsspråk
 * Uppmärkningsspråk för Hypertext
 * Utdraget Uppmärkningsspråk
+* Språk för presentationlager
+* Förenklad uppmärkning och presentation
+* Användarstudie

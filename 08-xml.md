@@ -23,7 +23,7 @@ XML kan vara uppmärkning av
 
 ---
 
-## SGML
+## XML
 
 <pre><code data-trim><script type="text/template">
 <?xml version="1.0" encoding="UTF-8"?>

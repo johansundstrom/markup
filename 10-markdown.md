@@ -12,41 +12,22 @@
 
 ---
 
-## Rubriknivåer
+## Syntax
 
-```#```Rubriknivå 1
-
-```##```Rubriknivå 2
-
-```###```Rubriknivå 3
-
-...
-
-```######```Rubriknivå 6
+<img class="myColor" width="600" data-src="assets/images/markdown.png">
 
 ---
 
-## Listyper
-
-```*``` - Punktlista
-
-```*``` - Punktlista
-
-
-```1.``` - Numrerad lista
-
-```2.``` - Numrerad lista
-
----
-
-## Parse'ad Markdown
+## Parsed Markdown
 
 * Javascript kan parse'a Markdown
-* Javascript kan skapa HTML/CSS på en webbsida
+* Javascript kan skapa HTML/CSS i en webbläsare
 
 ---
 
 ## Exempel
+
+* Demo Markdown i GIT
 
 ---
 

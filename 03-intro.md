@@ -6,56 +6,56 @@
 
 * Data - en uppgift *utan mening*
 * Information - *meningsfull* uppgift
-* Förmedlad kunskap - *Användbar information i ett sammanhang* (typ)
+* Förmedlad kunskap - *användbar information i ett sammanhang* (typ)
 * Content - Innehåll
 
 ---
 
 ## Kommunikatörens utmaning
 
-* Producera *information*
+1. Producera *information*
 
 ---
 
 ## Kommunikatörens utmaning
 
-* Producera *information*
-* Bry sig om *läsbarhet*
+1. Producera *information*
+2. Bry sig om *läsbarhet*
 
 ---
 
 ## Kommunikatörens utmaning
 
-* Producera *information*
-* Bry sig om *läsbarhet*
-* Erbjuda *content* som leder till kunskap
+1. Producera *information*
+2. Bry sig om *läsbarhet*
+3. Erbjuda *content* som leder till kunskap
 
 ---
 
 ## Kommunikatörens utmaning
 
-* Producera *information*
-* Bry sig om *läsbarhet*
-* Erbjuda *content* som leder till kunskap
-* Skapa nära nog *medieoberoende* content
+1. Producera *information*
+2. Bry sig om *läsbarhet*
+3. Erbjuda *content* som leder till kunskap
+4. Skapa nära nog *medieoberoende* content
 
 ---
 
 ## Kommunikatörens utmaning
 
-* Producera *information*
-* Bry sig om *läsbarhet*
-* Erbjuda *content* som leder till kunskap
-* Skapa nära nog *medieoberoende* content
-* Strävan att bli *system effektiv*
+1. Producera *information*
+2. Bry sig om *läsbarhet*
+3. Erbjuda *content* som leder till kunskap
+4. Skapa nära nog *medieoberoende* content
+5. Strävan att bli *system effektiv*
 
 ---
 
-## Seminariedel
+## Lite frågor på det
 
-* Kan text vara utan utformning?
+* Vad består medieoberoende kunskap av?
 * Vilken utformning i så fall?
-* Utformningens betydelse?
+* Balans budskap/presentation?
 
 ---
 

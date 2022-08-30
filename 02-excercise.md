@@ -1,6 +1,6 @@
 # Övning
 
-<img class="myColor" width="800" data-src="assets/images/exercise.webp">
+<img class="myColor" width="600" data-src="assets/images/exercise.webp">
 
 ---
 
@@ -52,10 +52,10 @@
 
 ---
 
-## Analysfrågor
+## Diskutera
 
-* Process att skapa utformning
-* Systematik
+* Process att skapa utformning?
+* Systematik?
 
 ---
 
