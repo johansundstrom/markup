@@ -14,7 +14,7 @@
 
 XML kan vara uppmärkning av
 
-* Document
+* Dokument
 * Data
 * Konfigurationslistor
 * Transaktioner
