@@ -47,7 +47,7 @@
 2. Bry sig om *läsbarhet*
 3. Erbjuda *content* som leder till kunskap
 4. Skapa nära nog *medieoberoende* content
-5. Strävan att bli *system effektiv*
+5. Strävan att bli *systemeffektiv*
 
 ---
 
